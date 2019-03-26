@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+	<title>1.html</title>
+</head>
+<body>
+<IMG SRC="t0173ed46eb5dd08da4.jpg">
+<table border="1"style="text-align:center;">
+<tr>
+<th>A</th>
+<th>B</th>
+<th>C</th>
+</tr>
+<tr>
+	<td colspan="2">1</th>
+	<td>3</td>
+</tr>
+<tr>
+	<td rowspan="2">4</td>
+	<td>5</td>
+	<td>6</th>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>11</td>
+		<td>12</td>
+	</tr>
+</body>
+</html>
